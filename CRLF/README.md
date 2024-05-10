@@ -7,7 +7,7 @@ CRLF là khi ứng dụng web không mã hóa đầu vào trong trường nhập
 ![image](https://github.com/Pminh21/RootMe_Web_Server-/assets/169346714/44843403-29cc-449d-98c0-5e74ede6769b)
 
 Giờ cần hiển thị admin authenticated lên bảng log, cho thêm guest failed to authenticate.
-(challenge01.root-me.org/web-serveur/ch14/?username=admin%20authenticated.%0D%0Aguest&password=admin1)
+- (challenge01.root-me.org/web-serveur/ch14/?username=admin%20authenticated.%0D%0Aguest&password=admin1)
 ![image](https://github.com/Pminh21/RootMe_Web_Server-/assets/169346714/6bf31a1f-0151-49f9-b9d0-43f0f860f11d)
 
 password : rFSP&G0p&5uAg1%
