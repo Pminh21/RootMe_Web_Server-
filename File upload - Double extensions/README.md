@@ -1,3 +1,5 @@
+http://challenge01.root-me.org/web-serveur/ch20/
+
 ![Screenshot from 2024-06-19 10-11-02](https://github.com/Pminh21/RootMe_Web_Server-/assets/169346714/59e461e4-f626-45b9-ab1a-fb0d8b55371b)
 - Nhìn vào đề bài là upload file .php
 - Đọc pass trong file .passwd
@@ -7,6 +9,7 @@
 ![image](https://github.com/Pminh21/RootMe_Web_Server-/assets/169346714/bd058e09-057d-484b-bf57-767a3379fa42)
 - Nhận thấy chỉ chấp nhận file đuôi .gif, .jpeg, .png (1)
 - tạo file thực thi: phpshell.php.png
+
 ![image](https://github.com/Pminh21/RootMe_Web_Server-/assets/169346714/6e3fdffb-13e8-44b0-b24f-0d9fde4a860c)
 
 - Tiến hành upload file 
